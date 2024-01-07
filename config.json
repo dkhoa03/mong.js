@@ -1,0 +1,139 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 123444,
+    "DASHBOARD": false,
+    "commandDisabled": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "configApi": {
+        "domain": "https://baodapchai.quangbao04.repl.co",
+        "ninoapi": "http://47.251.19.71",
+        "upanh": "https://btryswesc.quangbao04.repl.co"
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Mirai",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100000542968113",
+        "516831017",
+        "100013375203759"
+    ],
+    "NDH": [
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-disme",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.15",
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60,
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/0lAqQoj.jpg"
+        }
+    },
+    "anh": {
+        "cooldownTime": 1200000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "youtube": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "spadmPaseOnly": true,
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 1800000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "bot": {
+        "APIKEY": "LUVMIN"
+    },
+    "goibot": {
+        "APIKEY": "LUVMIN"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "aicover": {
+        "cooldownTime": 1200000
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "goibotv2": {
+        "APIKEY": "LUVMIN"
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    }
+}
